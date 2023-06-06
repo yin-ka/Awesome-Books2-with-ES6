@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import Book from './modules/book.js';
 import Store from './modules/store.js';
 import { DateTime } from './modules/luxon.js';
